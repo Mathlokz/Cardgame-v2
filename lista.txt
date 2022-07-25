@@ -1,0 +1,45 @@
+Matheus
+Vinicius
+Fael OK
+Coin OK
+Renan OK
+Brunao OK
+Cassiano OK
+Oreia
+Vitinho
+Torto OK
+Adriano OK
+Janjao OK
+Verminho
+Theu
+Marcos
+Mazaia
+Franklin
+Cupim
+Joao
+Herculao OK
+Richrasta OK
+Gustavo
+Catataw
+Dark
+Carnola
+Felipe jap
+Black
+Ferrugem
+Rinaldo
+Marinho
+
+    gamelogic{
+        manaLimit = 10
+        manaCost = 1 - > 10
+        atk 1 - 80
+        lifeLimit = 80
+        type1 = [Monster,Fusion,Spell,Xyz]
+        type2 = [Maconheiro,Bandido,Trabalhador,Diferenciado]
+        monsterList = 
+                                                    }
+
+      }
+
+default mode : Nome = Carta('Nome','Tipo','Familia',Manacost,Efeito,'card info',atk,id,attackcheck,nome do arquivo png)
+
